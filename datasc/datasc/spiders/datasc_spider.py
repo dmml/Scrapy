@@ -15,6 +15,7 @@ class Datasc_spider(CrawlSpider):
         "http://www.datasciencecentral.com/profiles/blog/list"
     ]
 
+    # rules for extract links
     rules = (
         # Extract links matching 'category.php' (but not matching 'subsection.php')
         # and follow links from them (since no callback means follow=True by default).
