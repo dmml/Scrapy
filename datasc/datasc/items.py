@@ -14,5 +14,5 @@ class DatascItem(scrapy.Item):
     author = scrapy.Field()
     date = scrapy.Field()
     url = scrapy.Field()
-    html = scrapy.Field()
+    # html = scrapy.Field()
     text = scrapy.Field()
