@@ -78,6 +78,7 @@
         <option value="$PROJECT_DIR$/datasc/datasc/items.py" />
         <option value="$PROJECT_DIR$/datasc/datasc/spiders/datasc_spider.py" />
         <option value="$PROJECT_DIR$/../NLTK/dsc/dsc.py" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -213,7 +214,13 @@
       <option name="project" value="LOCAL" />
       <updated>1438490076703</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test change">
+      <created>1438490212214</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1438490212214</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
